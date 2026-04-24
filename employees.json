@@ -1,5 +1,12 @@
 [
-  { "ID": 1, "Name": "John", "Gender": "M", "Age": 25 },
-  { "ID": 2, "Name": "Anna", "Gender": "F", "Age": 30 },
-  { "ID": 3, "Name": "Rahul", "Gender": "M", "Age": 28 }
+  { "Airport_id": 1, "Name": "Indira Gandhi International Airport", "City": "Delhi", "Country": "India" },
+  { "Airport_id": 2, "Name": "Chhatrapati Shivaji Maharaj International Airport", "City": "Mumbai", "Country": "India" },
+  { "Airport_id": 3, "Name": "Kempegowda International Airport", "City": "Bengaluru", "Country": "India" },
+  { "Airport_id": 4, "Name": "Heathrow Airport", "City": "London", "Country": "United Kingdom" },
+  { "Airport_id": 5, "Name": "John F. Kennedy International Airport", "City": "New York", "Country": "USA" },
+  { "Airport_id": 6, "Name": "Dubai International Airport", "City": "Dubai", "Country": "UAE" },
+  { "Airport_id": 7, "Name": "Singapore Changi Airport", "City": "Singapore", "Country": "Singapore" },
+  { "Airport_id": 8, "Name": "Sydney Kingsford Smith Airport", "City": "Sydney", "Country": "Australia" },
+  { "Airport_id": 9, "Name": "Frankfurt Airport", "City": "Frankfurt", "Country": "Germany" },
+  { "Airport_id": 10, "Name": "Narita International Airport", "City": "Tokyo", "Country": "Japan" }
 ]
